@@ -696,8 +696,8 @@ p {
 .btn:hover {
 	background-color: transparent;
 	border: 2px solid  rgb(26, 90, 163);
-	color: rgb(26, 90, 163);
-	text-shadow: 1px 1px rgb(29, 99, 179);
+	color: rgb(255, 255, 255);
+	text-shadow: 1px 1px rgb(81, 150, 230);
 }
 /* Casi me mato por un Boton*/
 
